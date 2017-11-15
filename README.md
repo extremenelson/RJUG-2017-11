@@ -37,7 +37,7 @@ For those new to JHipster, this is it's home and provides many resources to help
 
 [JHipster](http://www.jhipster.tech/)
 
-Chaos. It will happen.
+Chaos. **It _will_ happen**.
 
 [Jepsen (Perils of Network Communications)](https://aphyr.com/posts/281-jepsen-on-the-perils-of-network-partitions)
 
